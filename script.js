@@ -74,11 +74,12 @@ console.log('Esercizio 6', results2)
  Verifica che name1 sia diversa da name2 (suggerimento: è la stessa cosa di verificare che la loro uguaglianza sia falsa).
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
+
+/* SCRIVI QUI LA TUA RISPOSTA */
+
 let name1 ="john"
 let name2 ="John"
 console.log('Esercizio 7', name1 === name2)
 
 
 console.log('Extra esercizio 7', name1 === name2.toLowerCase())
-
-/* SCRIVI QUI LA TUA RISPOSTA */
