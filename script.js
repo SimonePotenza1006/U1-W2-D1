@@ -58,7 +58,7 @@ console.log('Esercizio 4', x)
 name="Potenza" /* Ho riassegnato alla variabile name il mio cognome */
 console.log(name) 
 const myName="Simone" /* Questa volta ho inizializzato la variabile myName con il costrutto const */
-myname ="Potenza"  /* Tento di cambiare il valore della mia variabile inserendo il mio cognome */
+myName ="Potenza"  /* Tento di cambiare il valore della mia variabile inserendo il mio cognome */
 console.log(myName)  /* Il valore rimarrà Simone e non cambierà in Potenza perché ho usato il costrutto const */
 
 /* ESERCIZIO 6
